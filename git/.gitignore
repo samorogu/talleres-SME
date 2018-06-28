@@ -1,0 +1,8 @@
+.rds
+.Rhistory
+.Rdata
+.csv
+.mdb
+.Rproj.user/
+git.Rproj
+cheatsheet.txt
